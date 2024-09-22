@@ -1,0 +1,23 @@
+{
+	"repoName": "fpp-plugin-ChristmasLightGuide",
+	"name": "Christmas Light Guide Integration",
+	"author": "Kodi Fletcher",
+	"description": "Integrates FPP with the Christmas Light Guide website for easy listing management.",
+	"homeURL": "https://github.com/ChristmasLightGuide/fpp-plugin-ChristmasLightGuide",
+	"srcURL": "https://github.com/ChristmasLightGuide/fpp-plugin-ChristmasLightGuide.git",
+	"bugURL": "https://github.com/ChristmasLightGuide/fpp-plugin-ChristmasLightGuide/issues",
+	"allowUpdates": 1,
+	"versions": [
+		{
+			"minFPPVersion": "5.0",
+			"maxFPPVersion": "0",
+			"branch": "master",
+			"sha": "",
+			"dependencies": {
+				"plugins": [],
+				"packages": [],
+				"scripts": []
+			}
+		}
+	]
+}
